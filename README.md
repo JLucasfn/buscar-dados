@@ -24,7 +24,7 @@ Este é um projeto de busca de pedidos utilizando planilhas do Google Sheets com
 ## Observações
 
 - Este projeto ainda está em desenvolvimento e ainda não possui integração com o WhatsApp, principal motivação para o seu desenvolvimento.
-- O projeto final possuirá integração com a API do WhatsApp para a criação de um chatbot que será o requerente.
+- O projeto final possuirá integração com a API do WhatsApp para criação de um chatbot que será o requerente.
 
 ## Uso
 
